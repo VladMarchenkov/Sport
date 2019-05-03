@@ -1,0 +1,163 @@
+
+.cl2:hover{
+    background-color: black;
+    color:white;
+}
+a{
+    font-size: 75px;
+}
+nav {
+    margin:0;
+    background-color: #E64A19;
+    position:center;
+    width:100%;
+    padding: 0;
+}
+nav ul {
+    padding:0;
+    margin:0;
+    list-style: none;
+    position: relative;
+}
+nav ul li {
+    display:block;
+    background-color: #E64A19;  
+    font:left;
+    position: relative;
+}
+nav a {
+    display:inline;
+    padding:0 10px;
+    color:#FFF;
+    font-size:20px;
+    line-height: 60px;
+    text-decoration:none;
+    font-size: 53px;
+    background: #E64A19;
+}
+nav a:hover {
+    background-color: #000000;
+}
+nav ul ul {
+    display: none;
+    position: relative;
+    top: 100%;
+}
+nav ul li:hover > ul {
+    display:block;
+    z-index: 2;
+    position:absolute;
+}
+nav ul ul li {
+    min-width:170px;
+    float:none;
+    display:inline;
+    position: relative;
+}
+.cl:hover{
+    display:block;
+    background-color: black;
+    color:rgb(255, 121, 195); 
+}  
+.cl3:hover{
+    background-color: black;
+    color:rgb(30, 60, 195);
+}
+.cl4:hover{
+    background-color: black;
+    color:rgb(255, 121, 100);
+}
+.cl5:hover{
+    background-color: black;
+    color:rgb(255, 60, 195);
+}
+.cl6:hover{
+    background-color: black;
+    color:rgb(120, 121, 195);
+}
+.cl7:hover{
+    background-color: black;
+    color:rgb(255, 121, 1);
+}
+.cl8:hover{
+    background-color: black;
+    color:rgb(255, 1, 195);
+}
+body{
+    background-image: url("Спорт-города-Изюм.jpg");
+}
+main{
+    position:absolute;left:30%;top:1000px;
+    clear: both;
+}
+.m{
+    font-size: 53px;
+    z-index:1;
+    position:absolute;
+    left:7%;
+    right: 7%;   
+    max-height: 900px;
+    font-style: italic;
+}
+.m2{
+    font-size: 53px;
+    z-index:1;
+    position: absolute;
+    left:2%;
+    right: 2%;  
+   max-height: 500px;
+   font-style: italic;
+}
+.m3{
+    font-size: 53px;
+    z-index:1;
+    position: absolute;
+    left:2%;
+    right: 2%;  
+    color:rgb(216, 230, 91);
+    font-style: italic;
+}
+.m4{
+    font-size: 53px;
+    z-index:1;
+    position: absolute;
+    left:2%;
+    right: 2%;  
+    font-style: italic;   
+}
+.m5{
+    font-size: 53px;
+    z-index:1;
+    position:absolute;
+    left:7%;
+    right: 7%;   
+    max-height: 500px;
+    font-style: italic;
+    color:  rgb(230, 91, 91);
+}
+.m6{
+    font-size: 53px;
+    z-index:1;
+    position: absolute;
+    left:2%;
+    right: 2%;  
+    font-style: italic;   
+    color:rgb(216, 230, 91);
+}
+.m7{
+    font-size: 53px;
+    z-index:1;
+    position: absolute;
+    left:2%;
+    right: 2%;  
+    font-style: italic;   
+    color:rgb(216, 230, 91);
+}
+.m8{
+    font-size: 53px;
+    z-index:1;
+    position: absolute;
+    left:2%;
+    right: 2%;  
+    font-style: italic;   
+}
